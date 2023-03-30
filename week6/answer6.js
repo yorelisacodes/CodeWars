@@ -1,9 +1,4 @@
-function createArray(number){
-  var newArray = [];
-  
-  for(let i = 1; i <= number; i++){
-    newArray.push(i);
-  }
-  
-  return newArray;
-}
+function simpleMultiplication(number) {
+  return number % 2 === 0 ? number * 8 : number * 9
+ }
+
