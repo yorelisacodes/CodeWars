@@ -135,3 +135,16 @@ In this simple exercise, you will build a program that takes a value, integer , 
 
 For example, if the parameters passed are (2, 6), the function should return [2, 4, 6] as 2, 4, and 6 are the multiples of 2 up to 6.
 
+18. Grasshopper - Debug
+
+DESCRIPTION:
+Debug celsius converter
+Your friend is traveling abroad to the United States so he wrote a program to convert fahrenheit to celsius. Unfortunately his code has some bugs.
+
+Find the errors in the code to get the celsius converter working properly.
+
+To convert fahrenheit to celsius:
+
+celsius = (fahrenheit - 32) * (5/9)
+Remember that typically temperatures in the current weather conditions are given in whole numbers. It is possible for temperature sensors to report temperatures with a higher accuracy such as to the nearest tenth. Instrument error though makes this sort of accuracy unreliable for many types of temperature measuring sensors.
+
