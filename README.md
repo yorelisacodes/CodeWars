@@ -148,3 +148,13 @@ To convert fahrenheit to celsius:
 celsius = (fahrenheit - 32) * (5/9)
 Remember that typically temperatures in the current weather conditions are given in whole numbers. It is possible for temperature sensors to report temperatures with a higher accuracy such as to the nearest tenth. Instrument error though makes this sort of accuracy unreliable for many types of temperature measuring sensors.
 
+19. My head is at the wrong end!
+
+DESCRIPTION: 
+You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
+
+Save the animals by switching them back. You will be given an array which will have three values (tail, body, head). It is your job to re-arrange the array so that the animal is the right way round (head, body, tail).
+
+Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics
+
+Simples!
