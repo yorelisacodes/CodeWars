@@ -193,3 +193,11 @@ class Labrador {
 Shorten it so that it meets the strict character count requirements for this Kata.
 
 Quick, get your timer out and get ready to time yourself. Are you ready? Ready, get set, GO!!! :D
+
+21. Convert a Boolean to a String
+
+DESCRIPTION: 
+
+Implement a function which convert the given boolean value into its string representation.
+
+Note: Only valid inputs will be given.
