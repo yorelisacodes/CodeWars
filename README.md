@@ -218,3 +218,15 @@ Expected Behaviour
 Function should return a dictionary/Object/Hash with "status" as a key, whose value can : "busy" or "available" depending on the truth value of the argument is_busy.
 
 But as you will see after clicking RUN or ATTEMPT this code has several bugs, please fix them.
+
+23. Vowel remover
+
+Create a function called shortcut to remove the lowercase vowels (a, e, i, o, u ) in a given string.
+
+Examples
+"hello"     -->  "hll"
+"codewars"  -->  "cdwrs"
+"goodbye"   -->  "gdby"
+"HELLO"     -->  "HELLO"
+don't worry about uppercase vowels
+y is not considered a vowel for this kata
