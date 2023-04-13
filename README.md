@@ -221,6 +221,8 @@ But as you will see after clicking RUN or ATTEMPT this code has several bugs, pl
 
 23. Vowel remover
 
+DESCRIPTION
+
 Create a function called shortcut to remove the lowercase vowels (a, e, i, o, u ) in a given string.
 
 Examples
@@ -232,6 +234,8 @@ don't worry about uppercase vowels
 y is not considered a vowel for this kata
 
 24. Contamination #1 -String-
+
+DESCRIPTION 
 
 An AI has infected a text with a character!!
 
@@ -246,3 +250,19 @@ Example
 text before = "abc"
 character   = "z"
 text after  = "zzz"
+
+25. Dollars and Cents
+
+DESCRIPTION:
+The company you work for has just been awarded a contract to build a payment gateway. In order to help move things along, you have volunteered to create a function that will take a float and return the amount formatting in dollars and cents.
+
+39.99 becomes $39.99
+
+The rest of your team will make sure that the argument is sanitized before being passed to your function although you will need to account for adding trailing zeros if they are missing (though you won't have to worry about a dangling period).
+
+Examples:
+
+3 needs to become $3.00
+
+3.1 needs to become $3.10
+Good luck! Your team knows they can count on you!
