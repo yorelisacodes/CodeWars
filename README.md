@@ -266,3 +266,9 @@ Examples:
 
 3.1 needs to become $3.10
 Good luck! Your team knows they can count on you!
+
+26. Basic variable assignment
+
+DESCRIPTION:
+
+This code should store "codewa.rs" as a variable called name but it's not working. Can you figure out why?
