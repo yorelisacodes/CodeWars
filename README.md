@@ -280,3 +280,8 @@ Make a simple function called greet that returns the most-famous "hello world!".
 
 Style Points
 Sure, this is about as easy as it gets. But how clever can you be to create the most creative "hello world" you can think of? What is a "hello world" solution you would want to show your friends?
+
+28. Remove First and Last Character
+
+DESCRIPTION:
+It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.
