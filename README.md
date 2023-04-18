@@ -285,3 +285,21 @@ Sure, this is about as easy as it gets. But how clever can you be to create the 
 
 DESCRIPTION:
 It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.
+
+29. Sort array by string length
+
+DESCRIPTION:
+Write a function that takes an array of strings as an argument and returns a sorted array containing the same strings, ordered from shortest to longest.
+
+``````````````````
+For example:
+
+if this array were passed as an argument:
+
+["Telescopes", "Glasses", "Eyes", "Monocles"]
+
+Your function would return the following array:
+
+["Eyes", "Glasses", "Monocles", "Telescopes"]
+
+All of the strings in the array passed to your function will be different lengths, so you will not have to decide how to order multiple strings of the same length.
