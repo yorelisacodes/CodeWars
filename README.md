@@ -303,3 +303,13 @@ Your function would return the following array:
 ["Eyes", "Glasses", "Monocles", "Telescopes"]
 
 All of the strings in the array passed to your function will be different lengths, so you will not have to decide how to order multiple strings of the same length.
+
+30. Reverse Words
+
+Complete the solution so that it reverses all of the words within the string passed in.
+
+Words are separated by exactly one space and there are no leading or trailing spaces.
+
+Example(Input --> Output):
+
+"The greatest victory is that which requires no battle" --> "battle no requires which that is victory greatest The"
