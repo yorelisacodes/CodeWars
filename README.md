@@ -313,3 +313,12 @@ Words are separated by exactly one space and there are no leading or trailing sp
 Example(Input --> Output):
 
 "The greatest victory is that which requires no battle" --> "battle no requires which that is victory greatest The"
+
+31.Vowel Count
+
+DESCRIPTION:
+Return the number (count) of vowels in the given string.
+
+We will consider a, e, i, o, u as vowels for this Kata (but not y).
+
+The input string will only consist of lower case letters and/or spaces.
