@@ -25,9 +25,7 @@
 // Using these parameters, create the function that will calculate Bob's and other partier's BAC.
 
 function bloodAlcoholContent(drinks, weight, sex, time) {
-  //   console.log(drinks)
-  //   console.log(drinks.ounces)
-  //   console.log(drinks.abv)
+
   let a = drinks.abv * drinks.ounces
   console.log(a)
   if (sex === "male") {
